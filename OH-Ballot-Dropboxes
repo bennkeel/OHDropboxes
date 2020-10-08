@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "county": "Clermont",
+        "title": "Clermont County Board of Elections",
+        "address": "76 S. Riverside Dr.",
+        "city": "Batavia",
+        "state": "OH",
+        "zip": "45103",
+        "phone": "(513) 732-7275"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.179237,
+          39.077125
+        ],
+        "type": "Point"
+      },
+      "id": "0d425aa66efe54f0a90388c8ccb1e537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "county": "Hamilton",
+        "title": "Hamilton County Board of Elections",
+        "address": "4700 Smith Rd, Cincinnati OH, ",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45212",
+        "phone": "(513) 732-7275"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.452781,
+          39.16167
+        ],
+        "type": "Point"
+      },
+      "id": "d36a94ba824bc7682932cac4c279b692"
+    }
+  ],
+  "type": "FeatureCollection"
+}
